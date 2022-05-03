@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Yang Lin. 
-- 🌱 I’m currently learning Python all over again. Please do join me in my journey
+- 🌱 I learnt the  Python fundamentals.
+- Now , I am currently learning JavaScript fundatmentals
 
 
 <!---
